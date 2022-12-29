@@ -1,0 +1,63 @@
+# Slack Emoji
+
+To add one to Slack: **Settings & administration -> Customize workspace -> Add Custom Emoji**, upload the file, and give it the name shown beside it.
+
+| Emoji | Name |
+| :---: | --- |
+| <img src="emoji/all-the-things.gif" width="40" alt="all-the-things"> | `:all-the-things:` |
+| <img src="emoji/always-has-been.png" width="40" alt="always-has-been"> | `:always-has-been:` |
+| <img src="emoji/blank.png" width="40" alt="blank"> | [`:blank:`](https://twitter.com/tenderlove/status/1032299379707863040) |
+| <img src="emoji/blinking-guy.gif" width="40" alt="blinking-guy"> | `:blinking-guy:` |
+| <img src="emoji/blob_no.png" width="40" alt="blob_no"> | `:blob_no:` |
+| <img src="emoji/blob_yes.png" width="40" alt="blob_yes"> | `:blob_yes:` |
+| <img src="emoji/business-cat.jpg" width="40" alt="business-cat"> | `:business-cat:` |
+| <img src="emoji/cat-jam.gif" width="40" alt="cat-jam"> | `:cat-jam:` |
+| <img src="emoji/cool-crying.png" width="40" alt="cool-crying"> | `:cool-crying:` |
+| <img src="emoji/dog-dance.gif" width="40" alt="dog-dance"> | `:dog-dance:` |
+| <img src="emoji/dog-jam.gif" width="40" alt="dog-jam"> | `:dog-jam:` |
+| <img src="emoji/done.jpg" width="40" alt="done"> | `:done:` |
+| <img src="emoji/dumpster-fire.gif" width="40" alt="dumpster-fire"> | `:dumpster-fire:` |
+| <img src="emoji/elmo-fire.gif" width="40" alt="elmo-fire"> | `:elmo-fire:` |
+| <img src="emoji/evil-kermit.png" width="40" alt="evil-kermit"> | `:evil-kermit:` |
+| <img src="emoji/facepalm.png" width="40" alt="facepalm"> | `:facepalm:` |
+| <img src="emoji/fellow-kids.png" width="40" alt="fellow-kids"> | `:fellow-kids:` |
+| <img src="emoji/gandalf-nod.gif" width="40" alt="gandalf-nod"> | `:gandalf-nod:` |
+| <img src="emoji/gasp-cat.gif" width="40" alt="gasp-cat"> | `:gasp-cat:` |
+| <img src="emoji/heavybreathing.gif" width="40" alt="heavybreathing"> | `:heavybreathing:` |
+| <img src="emoji/homer-disappear.gif" width="40" alt="homer-disappear"> | `:homer-disappear:` |
+| <img src="emoji/lolsob.png" width="40" alt="lolsob"> | `:lolsob:` |
+| <img src="emoji/mind-blown.gif" width="40" alt="mind-blown"> | `:mind-blown:` |
+| <img src="emoji/neat-spiderman.gif" width="40" alt="neat-spiderman"> | `:neat-spiderman:` |
+| <img src="emoji/not-sure.jpg" width="40" alt="not-sure"> | `:not-sure:` |
+| <img src="emoji/oh-no.png" width="40" alt="oh-no"> | `:oh-no:` |
+| <img src="emoji/oh-no-blob.png" width="40" alt="oh-no-blob"> | `:oh-no-blob:` |
+| <img src="emoji/oh-no-bubble.png" width="40" alt="oh-no-bubble"> | `:oh-no-bubble:` |
+| <img src="emoji/parrot_conga.gif" width="40" alt="parrot_conga"> | `:parrot_conga:` |
+| <img src="emoji/parrot_conga_reverse.gif" width="40" alt="parrot_conga_reverse"> | `:parrot_conga_reverse:` |
+| <img src="emoji/parrot_shuffle.gif" width="40" alt="parrot_shuffle"> | `:parrot_shuffle:` |
+| <img src="emoji/parrot_shuffle_further.gif" width="40" alt="parrot_shuffle_further"> | `:parrot_shuffle_further:` |
+| <img src="emoji/parrot_wave_1.gif" width="40" alt="parrot_wave_1"> | `:parrot_wave_1:` |
+| <img src="emoji/parrot_wave_2.gif" width="40" alt="parrot_wave_2"> | `:parrot_wave_2:` |
+| <img src="emoji/parrot_wave_3.gif" width="40" alt="parrot_wave_3"> | `:parrot_wave_3:` |
+| <img src="emoji/parrot_wave_4.gif" width="40" alt="parrot_wave_4"> | `:parrot_wave_4:` |
+| <img src="emoji/parrot_wave_5.gif" width="40" alt="parrot_wave_5"> | `:parrot_wave_5:` |
+| <img src="emoji/parrot_wave_6.gif" width="40" alt="parrot_wave_6"> | `:parrot_wave_6:` |
+| <img src="emoji/parrot_wave_7.gif" width="40" alt="parrot_wave_7"> | `:parrot_wave_7:` |
+| <img src="emoji/party_blob.gif" width="40" alt="party_blob"> | `:party_blob:` |
+| <img src="emoji/party_cat.gif" width="40" alt="party_cat"> | `:party_cat:` |
+| <img src="emoji/party_doh.gif" width="40" alt="party_doh"> | `:party_doh:` |
+| <img src="emoji/party_meow.gif" width="40" alt="party_meow"> | `:party_meow:` |
+| <img src="emoji/party_parrot.gif" width="40" alt="party_parrot"> | `:party_parrot:` |
+| <img src="emoji/party_sheepy.gif" width="40" alt="party_sheepy"> | `:party_sheepy:` |
+| <img src="emoji/party_wfh.gif" width="40" alt="party_wfh"> | `:party_wfh:` |
+| <img src="emoji/so-cute.png" width="40" alt="so-cute"> | `:so-cute:` |
+| <img src="emoji/sunglasses-shock.gif" width="40" alt="sunglasses-shock"> | `:sunglasses-shock:` |
+| <img src="emoji/the-more-you-know.gif" width="40" alt="the-more-you-know"> | `:the-more-you-know:` |
+| <img src="emoji/thumbs-up-fire.gif" width="40" alt="thumbs-up-fire"> | `:thumbs-up-fire:` |
+| <img src="emoji/try-not-to-cry.gif" width="40" alt="try-not-to-cry"> | `:try-not-to-cry:` |
+| <img src="emoji/ty.gif" width="40" alt="ty"> | `:ty:` |
+| <img src="emoji/typing-cat.gif" width="40" alt="typing-cat"> | `:typing-cat:` |
+| <img src="emoji/typing-kermit.gif" width="40" alt="typing-kermit"> | `:typing-kermit:` |
+| <img src="emoji/waiting.gif" width="40" alt="waiting"> | `:waiting:` |
+| <img src="emoji/why-not-both.gif" width="40" alt="why-not-both"> | `:why-not-both:` |
+| <img src="emoji/wtf-tom.gif" width="40" alt="wtf-tom"> | `:wtf-tom:` |
