@@ -13,6 +13,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/business-cat.jpg" width="40" alt="business-cat"> | `:business-cat:` |
 | <img src="emoji/cat-jam.gif" width="40" alt="cat-jam"> | `:cat-jam:` |
 | <img src="emoji/cool-crying.png" width="40" alt="cool-crying"> | `:cool-crying:` |
+| <img src="emoji/deal-with-it.gif" width="40" alt="deal-with-it"> | `:deal-with-it:` |
 | <img src="emoji/dog-dance.gif" width="40" alt="dog-dance"> | `:dog-dance:` |
 | <img src="emoji/dog-jam.gif" width="40" alt="dog-jam"> | `:dog-jam:` |
 | <img src="emoji/done.jpg" width="40" alt="done"> | `:done:` |
