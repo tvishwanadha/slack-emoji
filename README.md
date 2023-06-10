@@ -19,6 +19,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/done.jpg" width="40" alt="done"> | `:done:` |
 | <img src="emoji/dumpster-fire.gif" width="40" alt="dumpster-fire"> | `:dumpster-fire:` |
 | <img src="emoji/elmo-fire.gif" width="40" alt="elmo-fire"> | `:elmo-fire:` |
+| <img src="emoji/elmo-potty.gif" width="40" alt="elmo-potty"> | `:elmo-potty:` |
 | <img src="emoji/evil-kermit.png" width="40" alt="evil-kermit"> | `:evil-kermit:` |
 | <img src="emoji/facepalm.png" width="40" alt="facepalm"> | `:facepalm:` |
 | <img src="emoji/fellow-kids.png" width="40" alt="fellow-kids"> | `:fellow-kids:` |
@@ -46,6 +47,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/parrot_wave_7.gif" width="40" alt="parrot_wave_7"> | `:parrot_wave_7:` |
 | <img src="emoji/party_blob.gif" width="40" alt="party_blob"> | `:party_blob:` |
 | <img src="emoji/party_cat.gif" width="40" alt="party_cat"> | `:party_cat:` |
+| <img src="emoji/party_dino.gif" width="40" alt="party_dino"> | `:party_dino:` |
 | <img src="emoji/party_doh.gif" width="40" alt="party_doh"> | `:party_doh:` |
 | <img src="emoji/party_meow.gif" width="40" alt="party_meow"> | `:party_meow:` |
 | <img src="emoji/party_parrot.gif" width="40" alt="party_parrot"> | `:party_parrot:` |
