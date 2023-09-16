@@ -21,6 +21,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/elmo-fire.gif" width="40" alt="elmo-fire"> | `:elmo-fire:` |
 | <img src="emoji/elmo-potty.gif" width="40" alt="elmo-potty"> | `:elmo-potty:` |
 | <img src="emoji/evil-kermit.png" width="40" alt="evil-kermit"> | `:evil-kermit:` |
+| <img src="emoji/extreme-teamwork.gif" width="40" alt="extreme-teamwork"> | `:extreme-teamwork:` |
 | <img src="emoji/facepalm.png" width="40" alt="facepalm"> | `:facepalm:` |
 | <img src="emoji/fellow-kids.png" width="40" alt="fellow-kids"> | `:fellow-kids:` |
 | <img src="emoji/gandalf-nod.gif" width="40" alt="gandalf-nod"> | `:gandalf-nod:` |
@@ -56,6 +57,8 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/so-cute.png" width="40" alt="so-cute"> | `:so-cute:` |
 | <img src="emoji/sunglasses-shock.gif" width="40" alt="sunglasses-shock"> | `:sunglasses-shock:` |
 | <img src="emoji/the-more-you-know.gif" width="40" alt="the-more-you-know"> | `:the-more-you-know:` |
+| <img src="emoji/think-about-it.gif" width="40" alt="think-about-it"> | `:think-about-it:` |
+| <img src="emoji/this-is-fine.gif" width="40" alt="this-is-fine"> | `:this-is-fine:` |
 | <img src="emoji/thumbs-up-fire.gif" width="40" alt="thumbs-up-fire"> | `:thumbs-up-fire:` |
 | <img src="emoji/try-not-to-cry.gif" width="40" alt="try-not-to-cry"> | `:try-not-to-cry:` |
 | <img src="emoji/ty.gif" width="40" alt="ty"> | `:ty:` |
