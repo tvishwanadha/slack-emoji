@@ -1,7 +1,7 @@
 import os
 
 EMOJI = "emoji"
-BLANK = "https://twitter.com/tenderlove/status/1032299379707863040"
+BLANK = "https://xcancel.com/tenderlove/status/1032299379707863040"
 
 files = {f.split(".")[0]: f for f in os.listdir(EMOJI)}
 

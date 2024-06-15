@@ -6,7 +6,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | :---: | --- |
 | <img src="emoji/all-the-things.gif" width="40" alt="all-the-things"> | `:all-the-things:` |
 | <img src="emoji/always-has-been.png" width="40" alt="always-has-been"> | `:always-has-been:` |
-| <img src="emoji/blank.png" width="40" alt="blank"> | [`:blank:`](https://twitter.com/tenderlove/status/1032299379707863040) |
+| <img src="emoji/blank.png" width="40" alt="blank"> | [`:blank:`](https://xcancel.com/tenderlove/status/1032299379707863040) |
 | <img src="emoji/blinking-guy.gif" width="40" alt="blinking-guy"> | `:blinking-guy:` |
 | <img src="emoji/blob_no.png" width="40" alt="blob_no"> | `:blob_no:` |
 | <img src="emoji/blob_yes.png" width="40" alt="blob_yes"> | `:blob_yes:` |
@@ -21,6 +21,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/elmo-fire.gif" width="40" alt="elmo-fire"> | `:elmo-fire:` |
 | <img src="emoji/elmo-potty.gif" width="40" alt="elmo-potty"> | `:elmo-potty:` |
 | <img src="emoji/evil-kermit.png" width="40" alt="evil-kermit"> | `:evil-kermit:` |
+| <img src="emoji/excite-guy.gif" width="40" alt="excite-guy"> | `:excite-guy:` |
 | <img src="emoji/extreme-teamwork.gif" width="40" alt="extreme-teamwork"> | `:extreme-teamwork:` |
 | <img src="emoji/facepalm.png" width="40" alt="facepalm"> | `:facepalm:` |
 | <img src="emoji/fellow-kids.png" width="40" alt="fellow-kids"> | `:fellow-kids:` |
@@ -28,10 +29,12 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/gasp-cat.gif" width="40" alt="gasp-cat"> | `:gasp-cat:` |
 | <img src="emoji/heavybreathing.gif" width="40" alt="heavybreathing"> | `:heavybreathing:` |
 | <img src="emoji/homer-disappear.gif" width="40" alt="homer-disappear"> | `:homer-disappear:` |
+| <img src="emoji/loading.gif" width="40" alt="loading"> | `:loading:` |
 | <img src="emoji/lolsob.png" width="40" alt="lolsob"> | `:lolsob:` |
 | <img src="emoji/mind-blown.gif" width="40" alt="mind-blown"> | `:mind-blown:` |
 | <img src="emoji/neat-spiderman.gif" width="40" alt="neat-spiderman"> | `:neat-spiderman:` |
 | <img src="emoji/not-sure.jpg" width="40" alt="not-sure"> | `:not-sure:` |
+| <img src="emoji/np.gif" width="40" alt="np"> | `:np:` |
 | <img src="emoji/oh-no.png" width="40" alt="oh-no"> | `:oh-no:` |
 | <img src="emoji/oh-no-blob.png" width="40" alt="oh-no-blob"> | `:oh-no-blob:` |
 | <img src="emoji/oh-no-bubble.png" width="40" alt="oh-no-bubble"> | `:oh-no-bubble:` |
