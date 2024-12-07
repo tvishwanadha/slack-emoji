@@ -8,6 +8,7 @@ GROUPS = [
     ("memes", "Meme Classics"),
     ("party", "Party Dance"),
     ("parrots", "Party Parrot"),
+    ("old-man", "Old Man Yells At"),
     ("numbers", "Numbers"),
 ]
 

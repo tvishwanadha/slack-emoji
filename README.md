@@ -89,6 +89,27 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/parrots/parrot_wave_5.gif" width="40" alt="parrot_wave_5"> | `:parrot_wave_5:` |
 | <img src="emoji/parrots/parrot_wave_6.gif" width="40" alt="parrot_wave_6"> | `:parrot_wave_6:` |
 | <img src="emoji/parrots/parrot_wave_7.gif" width="40" alt="parrot_wave_7"> | `:parrot_wave_7:` |
+| <img src="emoji/parrots/rip_parrot.gif" width="40" alt="rip_parrot"> | `:rip_parrot:` |
+
+## Old Man Yells At
+
+| Emoji | Name |
+| :---: | --- |
+| <img src="emoji/old-man/old-man-yells-at-aws.png" width="40" alt="old-man-yells-at-aws"> | `:old-man-yells-at-aws:` |
+| <img src="emoji/old-man/old-man-yells-at-chatgpt.png" width="40" alt="old-man-yells-at-chatgpt"> | `:old-man-yells-at-chatgpt:` |
+| <img src="emoji/old-man/old-man-yells-at-datadog.png" width="40" alt="old-man-yells-at-datadog"> | `:old-man-yells-at-datadog:` |
+| <img src="emoji/old-man/old-man-yells-at-github.png" width="40" alt="old-man-yells-at-github"> | `:old-man-yells-at-github:` |
+| <img src="emoji/old-man/old-man-yells-at-gitlab.png" width="40" alt="old-man-yells-at-gitlab"> | `:old-man-yells-at-gitlab:` |
+| <img src="emoji/old-man/old-man-yells-at-grafana.png" width="40" alt="old-man-yells-at-grafana"> | `:old-man-yells-at-grafana:` |
+| <img src="emoji/old-man/old-man-yells-at-javascript.png" width="40" alt="old-man-yells-at-javascript"> | `:old-man-yells-at-javascript:` |
+| <img src="emoji/old-man/old-man-yells-at-notion.png" width="40" alt="old-man-yells-at-notion"> | `:old-man-yells-at-notion:` |
+| <img src="emoji/old-man/old-man-yells-at-openai.png" width="40" alt="old-man-yells-at-openai"> | `:old-man-yells-at-openai:` |
+| <img src="emoji/old-man/old-man-yells-at-postgres.png" width="40" alt="old-man-yells-at-postgres"> | `:old-man-yells-at-postgres:` |
+| <img src="emoji/old-man/old-man-yells-at-slack.png" width="40" alt="old-man-yells-at-slack"> | `:old-man-yells-at-slack:` |
+| <img src="emoji/old-man/old-man-yells-at-typescript.png" width="40" alt="old-man-yells-at-typescript"> | `:old-man-yells-at-typescript:` |
+| <img src="emoji/old-man/old-man-yells-at-vscode.png" width="40" alt="old-man-yells-at-vscode"> | `:old-man-yells-at-vscode:` |
+| <img src="emoji/old-man/old-man-yells-at-zoom.png" width="40" alt="old-man-yells-at-zoom"> | `:old-man-yells-at-zoom:` |
+| <img src="emoji/old-man/old-man-yells-forever.gif" width="40" alt="old-man-yells-forever"> | `:old-man-yells-forever:` |
 
 ## Numbers
 
