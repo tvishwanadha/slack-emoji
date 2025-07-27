@@ -36,14 +36,14 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/memes/excite-guy.gif" width="40" alt="excite-guy"> | `:excite-guy:` |
 | <img src="emoji/memes/extreme-teamwork.gif" width="40" alt="extreme-teamwork"> | `:extreme-teamwork:` |
 | <img src="emoji/memes/facepalm.png" width="40" alt="facepalm"> | `:facepalm:` |
-| <img src="emoji/memes/fellow-kids.png" width="40" alt="fellow-kids"> | `:fellow-kids:` |
+| <img src="emoji/memes/fellow-kids.gif" width="40" alt="fellow-kids"> | `:fellow-kids:` |
 | <img src="emoji/memes/gandalf-nod.gif" width="40" alt="gandalf-nod"> | `:gandalf-nod:` |
 | <img src="emoji/memes/gasp-cat.gif" width="40" alt="gasp-cat"> | `:gasp-cat:` |
 | <img src="emoji/memes/heavybreathing.gif" width="40" alt="heavybreathing"> | `:heavybreathing:` |
 | <img src="emoji/memes/homer-disappear.gif" width="40" alt="homer-disappear"> | `:homer-disappear:` |
 | <img src="emoji/memes/mind-blown.gif" width="40" alt="mind-blown"> | `:mind-blown:` |
 | <img src="emoji/memes/neat-spiderman.gif" width="40" alt="neat-spiderman"> | `:neat-spiderman:` |
-| <img src="emoji/memes/not-sure.jpg" width="40" alt="not-sure"> | `:not-sure:` |
+| <img src="emoji/memes/not-sure.gif" width="40" alt="not-sure"> | `:not-sure:` |
 | <img src="emoji/memes/oh-no.png" width="40" alt="oh-no"> | `:oh-no:` |
 | <img src="emoji/memes/oh-no-blob.png" width="40" alt="oh-no-blob"> | `:oh-no-blob:` |
 | <img src="emoji/memes/oh-no-bubble.png" width="40" alt="oh-no-bubble"> | `:oh-no-bubble:` |
