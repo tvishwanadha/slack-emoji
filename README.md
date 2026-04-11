@@ -95,6 +95,8 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 
 | Emoji | Name |
 | :---: | --- |
+| <img src="emoji/old-man/old-man-yells-and-yells.png" width="40" alt="old-man-yells-and-yells"> | `:old-man-yells-and-yells:` |
+| <img src="emoji/old-man/old-man-yells-at-anthropic.png" width="40" alt="old-man-yells-at-anthropic"> | `:old-man-yells-at-anthropic:` |
 | <img src="emoji/old-man/old-man-yells-at-aws.png" width="40" alt="old-man-yells-at-aws"> | `:old-man-yells-at-aws:` |
 | <img src="emoji/old-man/old-man-yells-at-chatgpt.png" width="40" alt="old-man-yells-at-chatgpt"> | `:old-man-yells-at-chatgpt:` |
 | <img src="emoji/old-man/old-man-yells-at-datadog.png" width="40" alt="old-man-yells-at-datadog"> | `:old-man-yells-at-datadog:` |
