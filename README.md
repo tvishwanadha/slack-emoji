@@ -10,7 +10,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/utility/blob_no.png" width="40" alt="blob_no"> | `:blob_no:` |
 | <img src="emoji/utility/blob_yes.png" width="40" alt="blob_yes"> | `:blob_yes:` |
 | <img src="emoji/utility/cool-crying.png" width="40" alt="cool-crying"> | `:cool-crying:` |
-| <img src="emoji/utility/done.jpg" width="40" alt="done"> | `:done:` |
+| <img src="emoji/utility/done.png" width="40" alt="done"> | `:done:` |
 | <img src="emoji/utility/loading.gif" width="40" alt="loading"> | `:loading:` |
 | <img src="emoji/utility/lolsob.png" width="40" alt="lolsob"> | `:lolsob:` |
 | <img src="emoji/utility/np.gif" width="40" alt="np"> | `:np:` |
@@ -42,6 +42,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/memes/heavybreathing.gif" width="40" alt="heavybreathing"> | `:heavybreathing:` |
 | <img src="emoji/memes/homer-disappear.gif" width="40" alt="homer-disappear"> | `:homer-disappear:` |
 | <img src="emoji/memes/mind-blown.gif" width="40" alt="mind-blown"> | `:mind-blown:` |
+| <img src="emoji/memes/mother-of-god.gif" width="40" alt="mother-of-god"> | `:mother-of-god:` |
 | <img src="emoji/memes/neat-spiderman.gif" width="40" alt="neat-spiderman"> | `:neat-spiderman:` |
 | <img src="emoji/memes/not-sure.gif" width="40" alt="not-sure"> | `:not-sure:` |
 | <img src="emoji/memes/oh-no.png" width="40" alt="oh-no"> | `:oh-no:` |
@@ -99,6 +100,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/old-man/old-man-yells-at-anthropic.png" width="40" alt="old-man-yells-at-anthropic"> | `:old-man-yells-at-anthropic:` |
 | <img src="emoji/old-man/old-man-yells-at-aws.png" width="40" alt="old-man-yells-at-aws"> | `:old-man-yells-at-aws:` |
 | <img src="emoji/old-man/old-man-yells-at-chatgpt.png" width="40" alt="old-man-yells-at-chatgpt"> | `:old-man-yells-at-chatgpt:` |
+| <img src="emoji/old-man/old-man-yells-at-claude.png" width="40" alt="old-man-yells-at-claude"> | `:old-man-yells-at-claude:` |
 | <img src="emoji/old-man/old-man-yells-at-datadog.png" width="40" alt="old-man-yells-at-datadog"> | `:old-man-yells-at-datadog:` |
 | <img src="emoji/old-man/old-man-yells-at-github.png" width="40" alt="old-man-yells-at-github"> | `:old-man-yells-at-github:` |
 | <img src="emoji/old-man/old-man-yells-at-gitlab.png" width="40" alt="old-man-yells-at-gitlab"> | `:old-man-yells-at-gitlab:` |
