@@ -6,15 +6,18 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 
 | Emoji | Name |
 | :---: | --- |
+| <img src="emoji/utility/ack.png" width="40" alt="ack"> | `:ack:` |
 | <img src="emoji/utility/blank.png" width="40" alt="blank"> | [`:blank:`](https://xcancel.com/tenderlove/status/1032299379707863040) |
 | <img src="emoji/utility/blob_no.png" width="40" alt="blob_no"> | `:blob_no:` |
 | <img src="emoji/utility/blob_yes.png" width="40" alt="blob_yes"> | `:blob_yes:` |
 | <img src="emoji/utility/cool-crying.png" width="40" alt="cool-crying"> | `:cool-crying:` |
 | <img src="emoji/utility/done.png" width="40" alt="done"> | `:done:` |
+| <img src="emoji/utility/lfg-rocket.gif" width="40" alt="lfg-rocket"> | `:lfg-rocket:` |
 | <img src="emoji/utility/loading.gif" width="40" alt="loading"> | `:loading:` |
 | <img src="emoji/utility/lolsob.png" width="40" alt="lolsob"> | `:lolsob:` |
 | <img src="emoji/utility/np.gif" width="40" alt="np"> | `:np:` |
 | <img src="emoji/utility/ty.gif" width="40" alt="ty"> | `:ty:` |
+| <img src="emoji/utility/yw.gif" width="40" alt="yw"> | `:yw:` |
 
 ## Meme Classics
 
@@ -23,6 +26,8 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/memes/all-the-things.gif" width="40" alt="all-the-things"> | `:all-the-things:` |
 | <img src="emoji/memes/always-has-been.png" width="40" alt="always-has-been"> | `:always-has-been:` |
 | <img src="emoji/memes/blinking-guy.gif" width="40" alt="blinking-guy"> | `:blinking-guy:` |
+| <img src="emoji/memes/bmo-battery-dead.gif" width="40" alt="bmo-battery-dead"> | `:bmo-battery-dead:` |
+| <img src="emoji/memes/bmo-dance.gif" width="40" alt="bmo-dance"> | `:bmo-dance:` |
 | <img src="emoji/memes/business-cat.jpg" width="40" alt="business-cat"> | `:business-cat:` |
 | <img src="emoji/memes/cat-jam.gif" width="40" alt="cat-jam"> | `:cat-jam:` |
 | <img src="emoji/memes/cat-nail-file.gif" width="40" alt="cat-nail-file"> | `:cat-nail-file:` |
@@ -72,6 +77,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/party/party_doh.gif" width="40" alt="party_doh"> | `:party_doh:` |
 | <img src="emoji/party/party_meow.gif" width="40" alt="party_meow"> | `:party_meow:` |
 | <img src="emoji/party/party_sheepy.gif" width="40" alt="party_sheepy"> | `:party_sheepy:` |
+| <img src="emoji/party/party_stamp.gif" width="40" alt="party_stamp"> | `:party_stamp:` |
 | <img src="emoji/party/party_wfh.gif" width="40" alt="party_wfh"> | `:party_wfh:` |
 
 ## Party Parrot
@@ -91,6 +97,16 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/parrots/parrot_wave_6.gif" width="40" alt="parrot_wave_6"> | `:parrot_wave_6:` |
 | <img src="emoji/parrots/parrot_wave_7.gif" width="40" alt="parrot_wave_7"> | `:parrot_wave_7:` |
 | <img src="emoji/parrots/rip_parrot.gif" width="40" alt="rip_parrot"> | `:rip_parrot:` |
+
+## AI
+
+| Emoji | Name |
+| :---: | --- |
+| <img src="emoji/ai/chatgpt.gif" width="40" alt="chatgpt"> | `:chatgpt:` |
+| <img src="emoji/ai/claude-code.gif" width="40" alt="claude-code"> | `:claude-code:` |
+| <img src="emoji/ai/claude-fail.png" width="40" alt="claude-fail"> | `:claude-fail:` |
+| <img src="emoji/ai/party-chatgpt.gif" width="40" alt="party-chatgpt"> | `:party-chatgpt:` |
+| <img src="emoji/ai/quit-chat-gpt.png" width="40" alt="quit-chat-gpt"> | `:quit-chat-gpt:` |
 
 ## Old Man Yells At
 
@@ -122,8 +138,10 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/numbers/-1000.png" width="40" alt="-1000"> | `:-1000:` |
 | <img src="emoji/numbers/-100.png" width="40" alt="-100"> | `:-100:` |
 | <img src="emoji/numbers/1.png" width="40" alt="1"> | `:1:` |
+| <img src="emoji/numbers/10.png" width="40" alt="10"> | `:10:` |
 | <img src="emoji/numbers/99.png" width="40" alt="99"> | `:99:` |
 | <img src="emoji/numbers/100-rainbow.gif" width="40" alt="100-rainbow"> | `:100-rainbow:` |
+| <img src="emoji/numbers/110.png" width="40" alt="110"> | `:110:` |
 | <img src="emoji/numbers/1000.png" width="40" alt="1000"> | `:1000:` |
 | <img src="emoji/numbers/9001.png" width="40" alt="9001"> | `:9001:` |
 | <img src="emoji/numbers/1000000.png" width="40" alt="1000000"> | `:1000000:` |
