@@ -105,6 +105,7 @@ To add one to Slack: **Settings & administration -> Customize workspace -> Add C
 | <img src="emoji/ai/chatgpt.gif" width="40" alt="chatgpt"> | `:chatgpt:` |
 | <img src="emoji/ai/claude-code.gif" width="40" alt="claude-code"> | `:claude-code:` |
 | <img src="emoji/ai/claude-fail.png" width="40" alt="claude-fail"> | `:claude-fail:` |
+| <img src="emoji/ai/claudeyssey.png" width="40" alt="claudeyssey"> | `:claudeyssey:` |
 | <img src="emoji/ai/party-chatgpt.gif" width="40" alt="party-chatgpt"> | `:party-chatgpt:` |
 | <img src="emoji/ai/quit-chat-gpt.png" width="40" alt="quit-chat-gpt"> | `:quit-chat-gpt:` |
 
